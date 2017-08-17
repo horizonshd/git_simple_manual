@@ -1,4 +1,13 @@
-﻿┌─── git 基础指令[本地]
+﻿/**
+ * =================================
+ * @Author:   horizonshd
+ * @Version:  1.0
+ * @DateTime: 2017-08-17 13:45:17
+ * =================================
+ */
+
+
+┌─── git 基础指令[本地]
 │       ├───01:git init             ────将当前文件夹初始化为git仓库
 │       ├───02:git status           ────查看当前 git 仓库的一些状态
 │       ├───03:git add              ────将文件添加到「暂存区」
@@ -57,4 +66,3 @@
 └───分支管理流程 Git Flow[以下操作需要有Git Flow]
         ├───49:git flow feature start A         ────第一步切换到 develop 分支，第二步新建一个以 feature 开头的分支名
         └───50:git flow feature finish A        ────这个分支完成之后，需要合并到 develop 分支
-
